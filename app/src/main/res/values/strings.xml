@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Calculator</string>
+    <string name="app_name">Avi\'s Calculator</string>
+    <string name="error_empty">Please enter both numbers</string>
+    <string name="error_invalid">Invalid input. Enter numbers only</string>
+    <string name="error_division_by_zero">Error: Division by zero</string>
+    <string name="result_prefix">Answer: </string>
 </resources>
