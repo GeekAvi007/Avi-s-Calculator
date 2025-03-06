@@ -13,37 +13,7 @@ Language: Kotlin
 Framework: Android Jetpack
 UI: XML with Material Design
 Architecture: MVVM (if used)
-📂 Project Structure
-swift
-Copy
-Edit
-CalculatorApp/
-│── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/calculator/
-│   │   │   │   ├── MainActivity.kt
-│   │   │   │   ├── Calculator.kt
-│   │   │   ├── res/layout/
-│   │   │   │   ├── activity_main.xml
-│   │   │   ├── res/values/
-│   │   │   │   ├── styles.xml
-│   ├── AndroidManifest.xml
-│── build.gradle
-│── README.md
-📥 Installation
-Prerequisites
-Android Studio (latest version)
-Android Emulator or Physical Device (API 21+)
-Steps to Run
-Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/calculator-app.git
-Open in Android Studio
-Sync Gradle & Build Project
-Run on Emulator or Physical Device
+
 🐞 Troubleshooting
 App crashes on launch?
 If you see this error:
